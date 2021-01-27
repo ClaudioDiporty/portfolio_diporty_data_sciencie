@@ -5,7 +5,7 @@ Portfólios de  Projetos de Data Science
 [![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="https://github.com/ClaudioDiporty/portfolio_diporty_data_sciencie/commit/05fb385d47006d4234213e5c76da58c95d78bf06#diff-82b938b9c169756baa99a1e4dc81b3d074680a1d786afc536624b08534749166" >
+  <img src="https://github.com/ClaudioDiporty/portfolio_diporty_data_sciencie/blob/main/banner.png?raw=true" >
 </p>
 
 # Claudio Rogerio Cardoso
