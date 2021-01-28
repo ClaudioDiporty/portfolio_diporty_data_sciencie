@@ -1,4 +1,4 @@
-# portfolio_diporty_data_sciencie
+# portfolio_diporty_data_science
 Portfólios de  Projetos de Data Science
 
 
