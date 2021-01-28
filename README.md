@@ -19,8 +19,8 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/claudio-rogerio-cardoso-3a799095/)
-#* [Medium](https://www.medium.com)
 * [Youtube](https://www.youtube.com/channel/UCrlW5OPMYtTY8lU7VBGnmcw)
+* [Aprenda Mais](https://cdfatecourinhos.wixsite.com/cienciadedados/sala-de-aula-virtual?lang=pt)
 
 
 ## Projetos:
