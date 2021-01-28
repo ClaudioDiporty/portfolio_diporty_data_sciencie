@@ -17,9 +17,10 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+
+* [LinkedIn](https://www.linkedin.com/in/claudio-rogerio-cardoso-3a799095/)
 * [Medium](https://www.medium.com)
+* [Youtube](https://www.youtube.com/channel/UCrlW5OPMYtTY8lU7VBGnmcw)
 
 
 ## Projetos:
